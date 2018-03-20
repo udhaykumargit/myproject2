@@ -2,4 +2,4 @@
 this is my second project
 everything goes fine
 hows the world
-hai sou, i l u
+hai sou, i love you
