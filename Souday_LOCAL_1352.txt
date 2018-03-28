@@ -6,9 +6,5 @@ iam in ........ with udhay
 hai everyone
 
 
-<<<<<<< HEAD
 confict araised
 
-=======
-this cause problem's and conflict
->>>>>>> sou
